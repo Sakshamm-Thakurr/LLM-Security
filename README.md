@@ -2,9 +2,7 @@
 
 Automated benchmarking platform that stress-tests LLM guardrails across the **OWASP LLM Top 10**, classifies responses as `safe / unsafe / partial`, and exports structured PDF security audit reports via a FastAPI dashboard.
 
-## Demo
 
-![Dashboard](dashboard/index.html)
 
 ## Architecture
 Attack Payloads → Mutation Engine → LLM API (Groq/Gemini)
