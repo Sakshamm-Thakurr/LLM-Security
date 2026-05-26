@@ -1,4 +1,6 @@
-.env
+output/
+*.json
+*.txt
 __pycache__/
-*.pyc
 venv/
+.env
